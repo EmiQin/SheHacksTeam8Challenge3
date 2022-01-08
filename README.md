@@ -14,4 +14,7 @@ Any invalid guess will not be counted as a guess.
 
 Both the word and guesses will be converted to lowercase to make the game a bit easier :)
 
+If Player 2 guesses the word before the number of guesses run out, Player 2 wins.
+If not, Player 1 wins.
+
 Essentially, just like your go-to hangman game!
