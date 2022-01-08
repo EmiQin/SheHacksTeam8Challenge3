@@ -67,7 +67,7 @@ while (numGuess >= 1) and (wordGuessed == False):
       i += 1
     # If Player 2's guess is not in the word, print "Incorrect" and decrease number of guesses
   else:
-    print("Incorrect.")
+    print("Incorrect. Letter is not in the word.")
     numGuess -= 1
 
   # Checking if Player 2 has guessed the word completely
